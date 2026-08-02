@@ -17,7 +17,7 @@ Official companion repository for the GW-Mamba undergraduate research project co
 | Research report | Available |
 | Final implementation notebooks | Included |
 | Benchmark results | Included |
-| Repository organization | In progress |
+| Repository organization | completed |
 
 ## Table of Contents
 
